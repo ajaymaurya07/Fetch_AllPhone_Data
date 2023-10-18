@@ -8,7 +8,8 @@ recylerAdapter -> modelClass-> Fragment-> viewModel
 
 
 ![Screenshot 2023-10-18 114144](https://github.com/ajaymaurya07/Fetch_AllPhone_Data/assets/140266310/b11b989b-3799-4602-8cc8-688d2a0ef9f1)
-![11](https://github.com/ajaymaurya07/Fetch_AllPhone_Data/assets/140266310/29e01b33-8f0d-4897-9992-287c3906233e)
+![222](https://github.com/ajaymaurya07/Fetch_AllPhone_Data/assets/140266310/1aae8887-cfaa-4f86-bc74-a9e3faf6a28b)
+
 
 
 
